@@ -25,14 +25,11 @@ tem que ser MONITORA) mantendo-o na pasta raiz.
 modelo do conteudo do arquivo:
 (copie as 3 linhas abaixo em um arquivo txt substituindo
 os ```*``` com as informações de cada cliente)
-
 ```
 [login]
 nome = *
 loja = *
 ```
----------------------------------------------------------
-
 # Compilação para stand alone exe:
 
 pip install auto-py-to-exe.
