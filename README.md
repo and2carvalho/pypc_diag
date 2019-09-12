@@ -15,7 +15,7 @@ realizar o teste e calcula melhor rota baseado no ping.
 **testePing.py** - Classe que realiza teste de conexão com
 servidor.
 
-#### Opção MONITORA (para ser usada junto com o agendador de tarefas do windows):
+### Opção MONITORA (para ser usada junto com o agendador de tarefas do windows):
 
 A criação de um arquivo .ini permite que o aplicativo
 rode com login automático e sem intereção do usuario.
