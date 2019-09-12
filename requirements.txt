@@ -1,7 +1,0 @@
-numpy==1.16.2
-pandas==0.24.2
-psutil==5.6.1
-PyInstaller==3.4
-pypiwin32==223
-pywin32==224
-pywin32-ctypes==0.2.0
