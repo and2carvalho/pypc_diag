@@ -14,7 +14,7 @@ import datetime
 class Tela_main:
     def __init__(self, master):
         self.master = master
-        self.logo = tk.PhotoImage(file=resource_path('imgMenu.png'))
+        self.logo = tk.PhotoImage(file=resource_path('static/imgMenu.png'))
         self.frame = tk.Frame(self.master, bg = 'white')
         self.logoLabel = tk.Label (self.master, image = self.logo, bg = "white") 
         self.userLabel = tk.Label (self.frame, text = "\nPor favor, digite seu nome: ", bg = "white")      
@@ -289,7 +289,7 @@ def main():
     global auto_user
     root = tk.Tk()
     app = Tela_main(root)
-    app.master.title("  BEM VINDO AO DIAGNOSTICO DE SUPORTE DA ID BRASIL ")
+    app.master.title("  BEM VINDO AO DIAGNOSTICO DE SUPORTE PYPC_DIAG ")
     app.master.geometry("500x260")
     app.master.configure(background = "white")
     app.master.protocol("WM_DELETE_WINDOW", app.sair)

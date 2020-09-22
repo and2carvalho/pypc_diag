@@ -1,4 +1,11 @@
-# Descrição de Arquivos:
+# PyPc_Diag
+<p align="center">
+    <img width="250" height="250" src="static/main.png"/>
+    <img width="250" height="250" src="static/output.png"/>
+</p>
+
+
+## Descrição de Arquivos:
 
 **app.py** - estrutura da aplicação gráfica que chama
 os processos e métodos do programa. O arquivo fecha
