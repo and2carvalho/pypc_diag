@@ -1,7 +1,7 @@
 # PyPc_Diag
 <p align="center">
-    <img width="250" height="250" src="static/main.png"/>
-    <img width="250" height="250" src="static/output.png"/>
+    <img width="320" height="250" src="static/main.png"/>
+    <img width="320" height="250" src="static/output.png"/>
 </p>
 
 
